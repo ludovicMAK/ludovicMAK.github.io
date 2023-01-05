@@ -191,7 +191,9 @@ h6 {
 .nav-menu li:hover>a i {
   color: #149ddd;
 }
-
+.img-test{
+  width: 50%;
+}
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position: fixed;
